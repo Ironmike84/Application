@@ -1,4 +1,5 @@
-alert('hello World')
-
-favFood = "steak";
-document.write(favFood);
+pokemonList = {
+    name: "bulbasaar",
+    height: 7,
+    types: ['grass', 'poison']    
+}
